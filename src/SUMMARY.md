@@ -1,67 +1,27 @@
 # Summary
 
 - [引言](./Chapter1/1-引言.md)
-
 - [C++基础知识](./Chapter2/2-cpp基础知识.md)
-  - [基本数据类型](./Chapter2/2.1-基本数据类型.md)
-    - [变量、数据和数据类型](./Chapter2/2.1.1-变量数据和数据类型.md)
-    - [整数的计算](./Chapter2/2.1.2-整数的计算.md)
-    - [浮点数的计算](./Chapter2/2.1.3-浮点数的计算.md)
-    - [浮点字面量](./Chapter2/2.1.4-浮点字面量.md)
-    - [格式化字符串](./Chapter2/2.1.5-格式化字符串.md)
-    - [运算符的优先级和相关性](./Chapter2/2.1.6-运算符的优先级和相关性.md)
-    - [全局变量](./Chapter2/2.1.7-全局变量.md)
-
+ 
 - [决策与控制流](./Chapter3/3-决策与控制流.md)
-  - [比较运算符](./Chapter3/3.1-比较运算符.md)
-    - [太空飞船运算符](./Chapter3/3.1.1-太空飞船运算符.md)
-  - [if语句](./Chapter3/3.2-if语句.md)
-    - [嵌套的if语句](./Chapter3/3.2.1-嵌套的if语句.md)
-  - [if-else语句](./Chapter3/3.3-if-else语句.md)
-    - [嵌套的if-else语句](./Chapter3/3.3.1-嵌套的if-else语句.md)
-  - [逻辑运算符](./Chapter3/3.4-逻辑运算符.md)
-  - [条件运算符](./Chapter3/3.5-条件运算符.md)
-  - [switch语句](./Chapter3/3.6-switch语句.md)
-
+  
 - [数组和循环](./Chapter4/4-数组和循环.md)
-  - [循环](./Chapter4/4.1-循环.md)
-    - [while循环](./Chapter4/4.1.1-while循环.md)
-    - [do-while循环](./Chapter4/4.1.2-do-while循环.md)
-    - [for循环](./Chapter4/4.1.3-for循环.md)
-    - [基于范围的for循环](./Chapter4/4.1.4-基于范围的for循环.md)
-    - [for_each遍历数组](./Chapter4/4.1.5-for_each遍历数组.md)
-    - [嵌套循环](./Chapter4/4.1.6-嵌套循环.md)
-    - [循环中断](./Chapter4/4.1.7-循环中断.md)
-  - [数组](./Chapter4/4.2-数组.md)
-    - [一维数组](./Chapter4/4.2.1-一维数组.md)
-    - [多维数组](./Chapter4/4.2.2-多维数组.md)
-
+  
+ 
 - [函数](./Chapter5/5-函数.md)
-  - [内置函数](./Chapter5/5.1-内置函数.md)
-  - [标准库函数](./Chapter5/5.2-标准库函数.md)
-    - [输入输出库](./Chapter5/5.2.1-输入输出库.md)
-    - [字符串处理库](./Chapter5/5.2.2-字符串处理库.md)
-    - [数学库](./Chapter5/5.2.3-数学库.md)
-  - [用户自定义函数](./Chapter5/5.3-用户自定义函数.md)
-  - [Lambda表达式](./Chapter5/5.4-Lambda表达式.md)
-
+  
+ 
 - [C++中的类和面向对象编程](./Chapter6/6-cpp面向对象.md)
-  - [类的定义和使用](./Chapter6/6.1-类的定义和使用.md)
-  - [继承](./Chapter6/6.2-继承.md)
-  - [多态](./Chapter6/6.3-多态.md)
-  - [C++20的新特性](./Chapter6/6.4-C++20新特性.md)
-
+  
+  
 - [模块和名称空间](./Chapter7/7-模块和名称空间.md)
-  - [模块](./Chapter7/7.1-模块.md)
-  - [名称空间](./Chapter7/7.2-名称空间.md)
-
+  
+  
 - [C++20的协程与并发](./Chapter8/8-协程与并发.md)
-  - [协程](./Chapter8/8.1-协程.md)
-  - [并发编程](./Chapter8/8.2-并发编程.md)
-
+  
 - [基于RISC-V Duo开发板的小实验](./Chapter9/9-risc-v实验.md)
-  - [Duo开发板简介](./Chapter9/9.1-Duo开发板简介.md)
-  - [运行C++20程序](./Chapter9/9.2-运行C++20程序.md)
-
+  
 - [附录](./Appendix/附录.md)
-  - [Linux下学习C++20](./Appendix/1-Linux下学习C++20.md)
+  
+
+
