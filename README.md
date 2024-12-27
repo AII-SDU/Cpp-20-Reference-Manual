@@ -6,10 +6,23 @@
 您可以通过以下链接访问在线文档：[C++20 Reference Manual](https://github.com/AII-SDU/Cpp-20-Reference-Manual/tree/main)
 
 ## 项目简介
-本文档使用 mdBook 构建，提供了系统化的 C++20 语言参考内容，帮助开发者深入了解 C++20 的新特性及其应用。
+本文档提供了系统化的 C++20 语言参考内容，帮助开发者深入了解 C++20 的新特性及其应用。
 
 ### 克隆仓库
 ```sh
 git clone https://github.com/AII-SDU/Cpp-20-Reference-Manual.git
 cd Cpp-20-Reference-Manual
 ```
+
+## 作者
+
+刘兰鹏
+
+## 贡献
+
+欢迎提交 Issue 和 Pull Request 来帮助改进文档。
+
+## 联系方式
+
+- 机构：山东大学智能创新研究院（Academy of Intelligent Innovation）
+- 项目地址：https://github.com/AII-SDU/Cpp-20-Reference-Manual.git
