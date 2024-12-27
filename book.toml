@@ -1,6 +1,6 @@
 [book]
-authors = ["kingdom"]
+authors = ["liu"]
 language = "zh"
 multilingual = false
 src = "src"
-title = "AI技术栈解析及应用"
+title = "C++20工具书"
