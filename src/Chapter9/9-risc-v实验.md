@@ -29,7 +29,7 @@ Milk-V Duo 是一款基于 CV1800B 芯片的超紧凑型嵌入式开发平台。
 
 `		`选择下图中的内容下载：
 
-![](..\img\Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.040.png)
+![](../img/Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.040.png)
 
 `		`下载镜像烧录工具，例如[balenaEtcher](https://etcher.balena.io/) 或 [Rufus](https://rufus.ie/en/)。
 
@@ -39,15 +39,15 @@ Milk-V Duo 是一款基于 CV1800B 芯片的超紧凑型嵌入式开发平台。
 
 `		`如图所示，点击Flash from file
 
-![](..\img\Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.041.png)
+![](../img/Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.041.png)
 
 `	`点击 Select target
 
-![](..\img\Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.042.png)
+![](../img/Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.042.png)
 
 `	`点击Flash！
 
-![](..\img\Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.043.png)
+![](../img/Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.043.png)
 
 随后，使用5V适配器或者电脑USB，用Type-C线连接Duo。Duo上的蓝色灯闪烁，表明启动成功。
 
@@ -142,25 +142,25 @@ RISC-V的概念最初由加州大学伯克利分校的研究团队提出，旨�
 ### <a name="_toc177736273"></a>**8.4.2 交叉编译使用的工具链**
 
 （1） 软件基础环境：
-![](..\img\Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.044.png)
+![](../img/Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.044.png)
 
 （2） 下载、安装和编译相关工具链
 
 1. `	`链接：[https://github.com/riscv/riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain)
 2. 下载下图所示的压缩包：
 
-![](..\img\Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.045.png)
+![](../img/Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.045.png)
 
 1. 点击
 
-![](..\img\Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.046.png)
+![](../img/Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.046.png)
 
 1. 下载
 
 使用命令：
 wget https://github.com/riscv-collab/riscv-gnu-toolchain/releases/download/2024.09.03/riscv64-glibc-ubuntu-22.04-gcc-nightly-2024.09.03-nightly.tar.gz
 
-![](..\img\Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.047.png)
+![](../img/Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.047.png)
 
 1. 解压：
 
@@ -256,5 +256,5 @@ check\_cpp20.cpp：
 
 下面是运行结果，很明显我们配置的工具链是成功的：
 
-![](..\img\Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.048.png)
+![](../img/Aspose.Words.0275c6d0-8912-4bc6-8629-ef1592146076.048.png)
 
