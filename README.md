@@ -16,7 +16,7 @@ cd Cpp-20-Reference-Manual
 
 ## 作者
 
-刘兰鹏 唐嘉乐
+刘兰鹏 唐嘉乐 丁子轩
 
 ## 贡献
 
